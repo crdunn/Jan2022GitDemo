@@ -3,6 +3,7 @@
 public class Helper {
 
 	public String sayHello(String name) {
-		return "Hello " + name;
+		String greeting = "Hello " + name;
+		return greeting;
 	}
 }
